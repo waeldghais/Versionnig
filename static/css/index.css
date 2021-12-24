@@ -1,0 +1,21 @@
+.bgNous{
+    background-color: rgba(129, 129, 230, 0.466);
+}
+.h1nous {
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.h3nous {
+    position: relative;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+    top: 10px;
+    margin: 4%;
+    font-size: 24px;
+
+}
